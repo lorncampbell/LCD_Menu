@@ -15,3 +15,5 @@ The voltage sensors are these here: Max 25V Voltage Detector Range 3 Terminal Se
 The LCD 4x20 screen is a LCD-BLUE-12C and see this excellent wiki here: https://arduino-info.wikispaces.com/LCD-Blue-I2C
 
 The menu structure is based on Nicolas Jarpa ideas here: http://www.instructables.com/id/Arduino-LCD-16x2-Turn-Single-Screen-Into-Multiple-/
+
+Also see the enclosed excel spreadsheet layout that helps with planning the text layout on the 4x20 LCD display. Each LCD cell is named by row & column number, ie 0,0 is top left cell and  19,3 bottom right cell
